@@ -1,0 +1,12 @@
+# IDE configurations
+.idea/
+.vs/
+.vscode/
+.vim
+
+# Template default
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
